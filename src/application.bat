@@ -1,6 +1,6 @@
 ### application.bat - 2020 - Lenoir ###
 
-echo "version 1.1"
+echo "version 1.2"
 Copyright company - 2020
 
 
